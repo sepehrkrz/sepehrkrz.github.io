@@ -1,6 +1,6 @@
 ---
 title: "Twitter Analysis for Disaster Management"
-excerpt: "This project aims to explore the potential of Twitter data for disaster management and risk reduction. The project includes several Python scripts that can be used for collecting, preprocessing, and analyzing Twitter data related to natural hazards and disasters.<br/><img src='/images/DisasterTweet.png'>"
+excerpt: "This project aims to explore the potential of Twitter data for disaster management and risk reduction. The project includes several Python scripts that can be used for collecting, preprocessing, and analyzing Twitter data related to natural hazards and disasters. <br><br/><img src='/images/DisasterTweet.png'>"
 collection: portfolio
 ---
 
