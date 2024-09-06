@@ -28,7 +28,7 @@ Work Experience
 
 * **Software Engineering Intern, _UA Remote Sensing Center_,** May 2019 - August 2019
 
-* **Software Engineering Intern, _Agrin Systems_,** May 2018 - August 2018
+* **Software Engineering Intern, _Agrin Systems_,** January 2013 - August 2018
 
 Publications
 ------
