@@ -22,9 +22,9 @@ Education
 
 Work Experience
 ------
-* **Director of AI and IT Solutions, _CCHR_**, May 2023 - Present
+* **Director of AI and IT Solutions, _CCHR_**, October  2024 - Present
   
-* **Senior Software Engineer, _CIROH_**, May 2023 - Present
+* **Senior Software Engineer, _Alabama Water Institute_**, May 2023 - October 2024
 
 * **AI Software Engineer Graduate Research Assistant, _The University of Alabama_**, August 2019 - May 2023
 
