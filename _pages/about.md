@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Senior Software Engineer with a strong foundation in computer science, specializing in Natural Language Processing (NLP), Large Language Models (LLMs), and Generative AI. I hold a PhD from the University of Alabama, where I deepened my expertise in these areas and cultivated a passion for pioneering technology solutions. With extensive experience in NLP, LLMs, and Generative AI, along with a keen interest in DevOps practices, I am committed to harnessing advanced technologies to tackle complex challenges and spearhead innovative projects.
+I have a strong foundation in computer science, specializing in Natural Language Processing (NLP), Large Language Models (LLMs), and Generative AI. I hold a PhD from the University of Alabama, where I deepened my expertise in these areas and cultivated a passion for pioneering technology solutions. With extensive experience in NLP, LLMs, and Generative AI, along with a keen interest in DevOps practices, I am committed to harnessing advanced technologies to tackle complex challenges and spearhead innovative projects.
 </p>
 
 Education
 ------
 * **The University of Alabama, Tuscaloosa, Alabama, USA** 
-    * **Ph.D.**, Computer Science
+    * **Ph.D.**, Interdisciplinary Science: Computer Science and Hydrology
 * **The University of Alabama, Tuscaloosa, Alabama, USA** 
     * **M.Sc**. Computer Science
 * **Sharif University of Technology , Tehran, Iran**
